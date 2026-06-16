@@ -45,6 +45,8 @@ By Mkmoise
 
 ## Canva
 
+**By Manu**
+
 **Canva** is a free online graphic design tool made by Canva Inc.
 It is one of the most popular design platforms for creating visual content.
 
