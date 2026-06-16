@@ -15,7 +15,7 @@ Each section is written by a different team member.
 ## VS code 
 Ken will write this section.
 
-##Notion
+## Notion
 By Mkmoise
 
 **Notion** is an all-in-one productivity and note-taking tool that helps students organize their academic and personal lives.
