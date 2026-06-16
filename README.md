@@ -15,6 +15,8 @@ Each section is written by a different team member.
 ## VS code
 By Ken
 
+By **Ken**
+
 **Visual Studio Code** (VS Code) is a free code editor made by Microsoft.
 It is one of the most popular editors for programming.
 
@@ -32,6 +34,8 @@ It is one of the most popular editors for programming.
 ### Useful Links
 - [VS Code Documentation](https://code.visualstudio.com/docs)
 - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
+
 
 
 ## Notion ##
