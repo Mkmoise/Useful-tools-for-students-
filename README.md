@@ -34,6 +34,18 @@ It is one of the most popular editors for programming.
 - [VS Code Documentation](https://code.visualstudio.com/docs)
 - [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
+## Recommend Extensions
+Here are some of the recommend extensions for Vs code for different languages 
+
+**Python**: Pylance, Python, Jupyter
+- **JavaScript/TypeScript**: ES7+ React/Redux/React-Native snippets, ESLint
+- **Java**: Extension Pack for Java, Spring Boot Extension Pack
+- **C/C++**: C/C++ Extension Pack, CMake Tools
+- **Web Development**: Live Server, Prettier, HTML CSS Support
+- **General**: GitLens, Docker, REST Client, Thunder Client
+
+Visit the [VS Code Extensions Marketplace](https://marketplace.visualstudio.com/vscode) to explore more!
+
 
 
 
