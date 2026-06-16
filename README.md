@@ -44,4 +44,25 @@ By Mkmoise
 - https://www.notion.so/help
 
 ## Canva
-Manu will write this section.
+
+**Canva** is a free online graphic design tool made by Canva Inc.
+It is one of the most popular design platforms for creating visual content.
+
+### Why Students Should Use It
+- It works on Windows, Mac, and any device with a web browser.
+- It supports creating designs for almost every purpose (presentations, posters, social media, etc.).
+- It has a drag-and-drop interface so you don't need any design experience.
+- Thousands of templates, elements, photos, and fonts add extra features for creative designs.
+
+### How to Get Started
+1. Go to [canva.com](https://www.canva.com/).
+2. Sign up with your email or social media account.
+3. Choose a template or start a blank design and begin creating.
+
+### Useful Links
+- [Canva for Education](https://www.canva.com/education/)
+- [Canva Design School](https://www.canva.com/design-school/)
+- [Canva Learn & Tutorials](https://www.canva.com/learn/)
+- [Canva Blog](https://www.canva.com/blog/)
+```
+
